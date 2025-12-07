@@ -100,10 +100,10 @@ static void print_main_menu(void)
     printf("\n----------- Main menu -----------\n");
     printf("\n"
            "\t\t\t\t\t\t\n"
-           "\t1. Menu item 1\t\t\n"
-           "\t2. Menu item 2\t\t\n"
-           "\t3. Menu item 3\t\t\n"
-           "\t4. Menu item 4\t\t\n"
+           "\t1. Signal Analysis (RMS, Peak, Average)\t\t\n"
+           "\t2. RC Filter Designer (Low/High Pass)   \t\t\n"
+           "\t3. Unit Converter (dBm, Hz, Temperature)\t\t\n"
+           "\t4. Ohm's Law Calculator (V, I, R, P)    \t\t\n"
            "\t5. Exit\t\t\t\t\n"
            "\t\t\t\t\t\t\n");
     printf("---------------------------------------------\n");
