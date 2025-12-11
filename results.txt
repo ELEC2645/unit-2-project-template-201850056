@@ -1,0 +1,19 @@
+Signal Analysis: RMS=7.0711 V, Peak-to-Peak=2.0000 V, Average=7.0000 V
+Signal Analysis: RMS=2.8361 V, Peak-to-Peak=0.3000 V, Average=2.8333 V
+Signal Analysis: RMS=1.6573 V, Peak-to-Peak=1.0000 V, Average=1.6000 V
+Signal Analysis: RMS=3.5355 V, Peak-to-Peak=0.3000 V, Average=3.5333 V
+Signal Analysis: RMS=2.9620 V, Peak-to-Peak=1.0000 V, Average=2.9333 V
+Waveform Generated: Sine, Freq=300.00 Hz, Amp=23.00, Samples=10
+Waveform Generated: Square, Freq=300.00 Hz, Amp=5.00, Samples=10
+Waveform Generated: Square, Freq=3000.00 Hz, Amp=300.00, Samples=50
+Waveform Generated: Square, Freq=300.00 Hz, Amp=30.00, Samples=100
+Waveform Generated: Sine, Freq=100.00 Hz, Amp=10.00, Samples=100
+Waveform Generated: Sine, Freq=20.00 Hz, Amp=2.00, Samples=200
+Waveform Generated: Noise, Freq=200.00 Hz, Amp=2.00, Samples=200
+Signal Analysis: RMS=4.3493 V, Peak-to-Peak=1.6000 V, Average=4.3000 V
+Waveform Generated: Noise, Freq=200.00 Hz, Amp=10.00, Samples=100
+Waveform Generated: Sine, Freq=200.00 Hz, Amp=15.00, Samples=100
+Waveform Generated: Sine, Freq=200.00 Hz, Amp=15.00, Samples=100
+Waveform Generated: Sine, Freq=200.00 Hz, Amp=15.00, Samples=100
+Signal Analysis: RMS=4.9417 V, Peak-to-Peak=0.7000 V, Average=4.9333 V
+Waveform Generated: Noise, Freq=20.00 Hz, Amp=10.00, Samples=100
